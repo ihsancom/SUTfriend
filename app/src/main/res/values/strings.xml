@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SUT friend</string>
+
+    <string name="sihnup">สมัคร สมาชิก</string>
 </resources>
